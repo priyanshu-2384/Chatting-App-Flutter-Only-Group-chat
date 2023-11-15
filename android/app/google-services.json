@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25192646391",
+    "project_id": "flutter-chat-app-27892",
+    "storage_bucket": "flutter-chat-app-27892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25192646391:android:5ee1750c9b728c925cf5f2",
+        "android_client_info": {
+          "package_name": "com.example.blink_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmeBDzAnBhkvgJCbDOptCuNdpEI7Yebc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25192646391:android:f6b9387faade2aae5cf5f2",
+        "android_client_info": {
+          "package_name": "com.example.blinktalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmeBDzAnBhkvgJCbDOptCuNdpEI7Yebc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
